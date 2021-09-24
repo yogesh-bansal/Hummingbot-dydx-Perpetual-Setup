@@ -51,7 +51,7 @@ Now we are ready to begin implementing our trading strategy!
 
 We are now ready to begin interacting and trading on the dydx platform using Hummingbot! To begin, we need to obtain credentials from the dydx site. The API key and Stark keys are the values needed from the platform. At startup, Hummingbot requests that we create a password to secure the data. After defining and re-entering the password, you are presented with the main screen from which we simply need to choose dydx\_perpetual as our protocol, and then we can begin interacting with the platform.
 
-![](images/Screen Shot 2021-09-24 at 12.06.38 PM.png)
+![Example](images/Screen Shot 2021-09-24 at 12.06.38 PM.png)
 
 We can run `help` in order to display a list of possible commands. The one we are looking for is `connect`. The API key, secret, and passphrase from the dydx platform are required to be provided at this stage. After entering these values, you should see that the keys have been added and confirmed for dydx_perpetual, and we are good to go.
 
