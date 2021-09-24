@@ -14,10 +14,10 @@ In this blog, we will assume a manual installation on **Ubuntu 20.04**.
 
 ![](images/Screen-Shot-2021-09-22-at-12.49.14-PM-1024x681.png)
 
-1. sudo apt update
-2. sudo apt install -y build-essential
-3. wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86\_64.sh
-4. sh Miniconda3-latest-Linux-x86\_64.sh
+- `sudo apt update`
+- `sudo apt install -y build-essential`
+- `wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86\_64.sh`
+- `sh Miniconda3-latest-Linux-x86\_64.sh`
 
 At this stage, you will be presented with several options dictating the installation of Miniconda. In most cases, the defaults should suffice. Running the bash script to complete the Miniconda installation may take several minutes. Once the installation is complete, we need to reload Bash in order to detect Miniconda. Simply run:
 
@@ -29,9 +29,9 @@ Now, we are ready to proceed by installing Hummingbot.
 
 ### Installing Hummingbot
 
-1. git clone https://github.com/CoinAlpha/hummingbot.git
-2. cd hummingbot && ./clean && ./install
-3. conda activate hummingbot && ./compile
+- `git clone https://github.com/CoinAlpha/hummingbot.git`
+- `cd hummingbot && ./clean && ./install`
+- `conda activate hummingbot && ./compile`
 
 These steps, particularly cloning the repository and compiling the source code, can take a few minutes to complete. This will ensure that the conda environment is activated, and hummingbot is ready to be executed.
 
@@ -39,7 +39,7 @@ These steps, particularly cloning the repository and compiling the source code, 
 
 To run Hummingbot, we simply need to execute the following command:
 
-bin/hummingbot.py
+- `bin/hummingbot.py`
 
 You should be presented with this screen if everything worked as expected:
 
@@ -56,3 +56,4 @@ At this point, we have everything needed to begin making trades. We supply a num
 ## Video Tutorial
 
 A full tutorial of the setup process, and the strategy making procedure, is given below:
+View the [video walkthrough](https://youtu.be/F6dsHxpkwGY) 
