@@ -1,4 +1,4 @@
-# Using Hummingbot for Custom Trading Strategies on dydx
+# Hummingbot for Custom Trading Strategies on dydx
 
 The open-source Hummingbot software allows for the definition, implementation, and execution of customized market and trading strategies on a number of platforms. Recently, Hummingbot added support for the dydx platform, allowing for these trading strategies to be performed directly on the dydx platform automatically. In this blog, we will walk through the setup and configuration of Hummingbot, and show how to use it to define and execute a market strategy on dydx.
 
@@ -21,7 +21,7 @@ In this blog, we will assume a manual installation on **Ubuntu 20.04**.
 
 At this stage, you will be presented with several options dictating the installation of Miniconda. In most cases, the defaults should suffice. Running the bash script to complete the Miniconda installation may take several minutes. Once the installation is complete, we need to reload Bash in order to detect Miniconda. Simply run:
 
-exec bash
+- `exec bash`
 
 Now, we are ready to proceed by installing Hummingbot.
 
