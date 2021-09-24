@@ -56,4 +56,5 @@ At this point, we have everything needed to begin making trades. We supply a num
 ## Video Tutorial
 
 A full tutorial of the setup process, and the strategy making procedure, is given below:
-View the [video walkthrough](https://youtu.be/F6dsHxpkwGY) 
+[![Alt text](https://img.youtube.com/vi/F6dsHxpkwGY/0.jpg)](https://www.youtube.com/watch?v=F6dsHxpkwGY)
+
