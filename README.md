@@ -1,12 +1,4 @@
----
-title: "Using Hummingbot for Custom Trading Strategies on dydx"
-date: "2021-09-22"
----
-
-- ![](images/humm-2.png)
-    
-- ![](images/dydx-1024x512.png)
-    
+# Using Hummingbot for Custom Trading Strategies on dydx
 
 The open-source Hummingbot software allows for the definition, implementation, and execution of customized market and trading strategies on a number of platforms. Recently, Hummingbot added support for the dydx platform, allowing for these trading strategies to be performed directly on the dydx platform automatically. In this blog, we will walk through the setup and configuration of Hummingbot, and show how to use it to define and execute a market strategy on dydx.
 
@@ -14,7 +6,7 @@ The open-source Hummingbot software allows for the definition, implementation, a
 
 There are several supported installation methods for Hummingbot, including installation via Docker. For a full breakdown of the options, please see the official documentation:
 
-[https://docs.hummingbot.io/installation/linux/](https://docs.hummingbot.io/installation/linux/)  
+- [https://docs.hummingbot.io/installation/linux/](https://docs.hummingbot.io/installation/linux/)  
 
 In this blog, we will assume a manual installation on **Ubuntu 20.04**.
 
