@@ -12,7 +12,7 @@ In this blog, we will assume a manual installation on **Ubuntu 20.04**.
 
 ### Installing Miniconda
 
-![](images/Screen-Shot-2021-09-22-at-12.49.14-PM-1024x681.png)
+![](images/1.png)
 
 - `sudo apt update`
 - `sudo apt install -y build-essential`
@@ -25,7 +25,7 @@ At this stage, you will be presented with several options dictating the installa
 
 Now, we are ready to proceed by installing Hummingbot.
 
-![](images/Screen-Shot-2021-09-22-at-12.48.57-PM-1024x550.png)
+![](images/2.png)
 
 ### Installing Hummingbot
 
@@ -43,7 +43,7 @@ To run Hummingbot, we simply need to execute the following command:
 
 You should be presented with this screen if everything worked as expected:
 
-![](images/Screen-Shot-2021-09-22-at-1.10.14-PM-1024x483.png)
+![](images/3.png)
 
 Now we are ready to begin implementing our trading strategy!
 
@@ -72,4 +72,4 @@ Hummingbot guides you through all the possible choices. Once complete, and the s
 ## Video Tutorial
 
 A full tutorial of the setup process, and the strategy making procedure, is given below:
-[![Alt text](https://img.youtube.com/vi/F6dsHxpkwGY/0.jpg)](https://www.youtube.com/watch?v=F6dsHxpkwGY)
+[![Alt text](images/dydx.gif)](https://www.youtube.com/watch?v=F6dsHxpkwGY)
