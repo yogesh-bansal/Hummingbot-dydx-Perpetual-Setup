@@ -53,7 +53,7 @@ We are now ready to begin interacting and trading on the dydx platform using Hum
 
 ![](images/hummingbot.png)
 
-We can run `help` in order to display a list of possible commands. The one we are looking for is `connect`. The API key, secret, and passphrase from the dydx platform are required to be provided at this stage. After entering these values, you should see that the keys have been added and confirmed for dydx_perpetual, and we are good to go.
+We can run `help` in order to display a list of possible commands. The one we are looking for is `connect`. The API key, secret, and passphrase from the dydx platform are required to be provided at this stage (Check the video demo at the end of the Readme to view the full process). After entering these values, you should see that the keys have been added and confirmed for dydx_perpetual, and we are good to go.
 
 ![](images/Demo.gif)
 
