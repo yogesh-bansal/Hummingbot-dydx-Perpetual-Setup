@@ -4,7 +4,7 @@ The open-source Hummingbot software allows for the definition, implementation, a
 
 ## Hummingbot Installation
 
-Check out the end of the Readme for the YouTube video explaining all the installation and configurations steps in detail. Or follow the below instructions.
+Check out the end of the Readme for the [YouTube Video](https://www.youtube.com/watch?v=F6dsHxpkwGY) explaining all the installation and configurations steps in detail. Or follow the below instructions.
 
 There are several supported installation methods for Hummingbot, including installation via Docker. For a full breakdown of the options, please see the official documentation:
 
