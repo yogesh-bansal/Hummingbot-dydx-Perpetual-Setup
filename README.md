@@ -55,6 +55,8 @@ We are now ready to begin interacting and trading on the dydx platform using Hum
 
 We can run `help` in order to display a list of possible commands. The one we are looking for is `connect`. The API key, secret, and passphrase from the dydx platform are required to be provided at this stage. After entering these values, you should see that the keys have been added and confirmed for dydx_perpetual, and we are good to go.
 
+![](images/Demo.gif)
+
 At this point, we have everything needed to begin making trades. We supply a number of strategy parameters as requested by Hummingbot. The strategy is saved as a structured YAML file, which can be read in plain text and parsed as needed to read in elements of that strategy. When we execute the strategy, immediately the trades are performed if the criteria is met. For example, we can define a strategy that says:
 
 - Use BTC-USD as the pair of interest
