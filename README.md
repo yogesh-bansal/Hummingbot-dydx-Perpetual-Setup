@@ -72,4 +72,5 @@ Hummingbot guides you through all the possible choices. Once complete, and the s
 ## Video Tutorial
 
 A full tutorial of the setup process, and the strategy making procedure, is given below:
+
 [![Alt text](images/dydx.gif)](https://www.youtube.com/watch?v=F6dsHxpkwGY)
